@@ -1,2 +1,3 @@
 # hello-world
-Tutorial exercise for first repository created. 
+Tutorial exercise for first repository created.
+Making an commit
